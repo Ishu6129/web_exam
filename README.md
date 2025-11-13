@@ -99,75 +99,37 @@ Renders heading + search bar + grid
 🚀 Setup Instructions
 1️⃣ Create a React project using Vite
 bash
-Copy code
+```Copy code
 npm create vite@latest emoji-app --template react
 cd emoji-app
 npm install
+```
 2️⃣ Add Tailwind CDN into index.html
 html
-Copy code
+```Copy code
 <script src="https://cdn.tailwindcss.com"></script>
+```
 3️⃣ Add your components as described above
 4️⃣ Start the application
 bash
-Copy code
+```Copy code
 npm run dev
+```
 5️⃣ Visit the app
 arduino
-Copy code
+```Copy code
 http://localhost:5173
+```
 🎨 UI Design Highlights
 🌈 Gradient background
-
 🧊 Glassmorphism search bar
-
 📦 Rounded emoji cards
-
 🔍 Smooth hover zoom animation
-
 🎯 Center-aligned title
-
 ✨ Perfect spacing for a clean layout
-
-📌 Future Enhancements
-🌙 Dark mode
-
-🎭 Full-screen emoji viewer
-
-⬇️ Download image button
-
-🔗 Copy emoji link
-
-♾️ Infinite scroll
-
-🔍 Category filters (funny, reaction, classic)
 
 ❤️ Credits
 API: ImgFlip Image API
-
 UI: TailwindCSS (CDN)
-
 Framework: React + Vite
-
 Created as: Emoji App ✨
-
-🎉 Final Thoughts
-Emoji App is built to be:
-
-Simple
-
-Beautiful
-
-Fast
-
-Perfect for portfolios, demos, or college submissions
-
-If you want a banner image, icons, logo, or an advanced UI version — just ask!
-
-yaml
-Copy code
-
----
-
-If you want, I can also update your GitHub repo README directly (just send me the link again).
----
