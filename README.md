@@ -37,6 +37,7 @@ Example response item:
   "width": 1200,
   "height": 1200
 }
+```
 🗂️ Project Structure
 graphql
 Copy code
@@ -168,3 +169,4 @@ Copy code
 ---
 
 If you want, I can also update your GitHub repo README directly (just send me the link again).
+---
