@@ -27,9 +27,10 @@ const MemeSearch = () => {
 
   return (
     <div className="min-h-screen bg-gradient-to-b from-blue-100 to-purple-100">
-      <h1 className="text-center text-4xl font-bold pt-10 text-gray-800">
-        Meme Search
-      </h1>
+      <h1 className="text-center text-5xl font-extrabold text-gray-800 mt-10 drop-shadow">
+  Emoji App
+</h1>
+
 
       <Navbar query={query} setQuery={setQuery} />
 
