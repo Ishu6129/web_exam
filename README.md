@@ -24,9 +24,6 @@ Although the app is named **Emoji App**, we use the meme API because it provides
 
 https://api.imgflip.com/get_memes
 
-css
-Copy code
-
 Example response item:
 
 ```json
@@ -40,7 +37,6 @@ Example response item:
 ```
 🗂️ Project Structure
 ```graphql
-Copy code
 emoji_app/
 ├─ index.html               # Tailwind CDN included here
 ├─ package.json
@@ -99,25 +95,25 @@ Renders heading + search bar + grid
 🚀 Setup Instructions
 1️⃣ Create a React project using Vite
 bash
-```Copy code
+```
 npm create vite@latest emoji-app --template react
 cd emoji-app
 npm install
 ```
 2️⃣ Add Tailwind CDN into index.html
 html
-```Copy code
+```
 <script src="https://cdn.tailwindcss.com"></script>
 ```
 3️⃣ Add your components as described above
 4️⃣ Start the application
 bash
-```Copy code
+```
 npm run dev
 ```
 5️⃣ Visit the app
 arduino
-```Copy code
+```
 http://localhost:5173
 ```
 🎨 UI Design Highlights
