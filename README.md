@@ -39,7 +39,7 @@ Example response item:
 }
 ```
 🗂️ Project Structure
-graphql
+```graphql
 Copy code
 emoji_app/
 ├─ index.html               # Tailwind CDN included here
@@ -54,6 +54,7 @@ emoji_app/
 │  └─ pages/
 │      └─ MemeSearch.jsx    # Main Emoji Search page (fetch + filter)
 └─ README.md
+```
 🧩 Components Overview
 🔹 Navbar.jsx
 Search bar with glassmorphism
